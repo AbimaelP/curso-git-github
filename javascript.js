@@ -1,2 +1,2 @@
-const m = "O arquivo esta sendo monitorado e esta no gitHub"
+const m = "O arquivo foi alterado"
 console.log(m)
